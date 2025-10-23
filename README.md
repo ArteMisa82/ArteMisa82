@@ -6,7 +6,7 @@
 ---
 
 ### 🎓 Acerca de mí  
-- 👩‍💻 Soy **Verónica Jaque**, estudiante de la **FISEI - Universidad Técnica de Ambato**  
+- 👩‍💻 Soy **Verónica Jaque**, estudiante de **Software**  
 - 🧩 Interesada en la **arquitectura limpia**, **bases de datos relacionales** y **desarrollo web frontend**  
 - 💡 Aprendiendo constantemente nuevas tecnologías  
 

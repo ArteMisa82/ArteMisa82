@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Bienvenido a mi perfil de GitHub  
 
-<!--
-**ArteMisa82/ArteMisa82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora en formación | Ingeniería en Software**  
+🌐 Apasionada por la tecnología, la arquitectura de software y el desarrollo web.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Acerca de mí  
+- 👩‍💻 Soy **Verónica Jaque**, estudiante de la **FISEI - Universidad Técnica de Ambato**  
+- 🧩 Interesada en la **arquitectura limpia**, **bases de datos relacionales** y **desarrollo web frontend**  
+- 💡 Aprendiendo constantemente nuevas tecnologías  
+
+---
+
+### 🛠️ Tecnologías y Herramientas  
+
+💬 **Lenguajes:** Java ☕ · JavaScript ⚡ · PHP 🐘  
+🗄️ **Bases de Datos:** Oracle SQL 🧠 · PostgreSQL 🗃️ · SQLite 🧩  
+⚙️ **Frameworks / Librerías:** React ⚛️ · Next.js ⚡ · Node.js 🌿  
+🧰 **Herramientas:** Git / GitHub 🐙 · VS Code 💡 · Notion 📘  
+
+---
+
+### 📫 Conecta conmigo  
+- 💌 **Correo institucional:** [vjaque5367@uta.edu.ec](mailto:vjaque5367@uta.edu.ec)  
+
+---
+
+⭐ *Gracias por visitar mi perfil. ¡Explora mis repositorios para ver mis proyectos!*  
+

@@ -6,7 +6,7 @@
 ---
 
 ### 🎓 Acerca de mí  
-- 👩‍💻 Soy **Verónica Jaque**, estudiante de **Software**  
+- 👩‍💻 Soy **Verónica Jaque**, estudiante de la **FISEI - Universidad Técnica de Ambato**  
 - 🧩 Interesada en la **arquitectura limpia**, **bases de datos relacionales** y **desarrollo web frontend**  
 - 💡 Aprendiendo constantemente nuevas tecnologías  
 
@@ -14,13 +14,23 @@
 
 ### 🛠️ Tecnologías y Herramientas  
 
-💬 **Lenguajes:** Java ☕ · JavaScript ⚡ · PHP 🐘  
-🗄️ **Bases de Datos:** Oracle SQL 🧠 · PostgreSQL 🗃️ · SQLite 🧩  
-⚙️ **Frameworks / Librerías:** React ⚛️ · Next.js ⚡ · Node.js 🌿  
-🧰 **Herramientas:** Git / GitHub 🐙 · VS Code 💡 · Notion 📘  
+<div align="center">
+
+| Lenguajes | Bases de Datos | Frameworks / Librerías | Herramientas |
+|------------|----------------|------------------------|---------------|
+| Java ☕ | Oracle SQL 🧠 | React ⚛️ | Git / GitHub 🐙 |
+| JavaScript ⚡ | PostgreSQL 🗄️ | Node.js 🌿 | Notion 📘 |
+| PHP 🐘 | — | Next.js ⚡ | VS Code 💡 |
+
+</div>
 
 ---
 
+### 📫 Conecta conmigo  
+- 💌 **Correo institucional:** [vjaque5367@uta.edu.ec](mailto:vjaque5367@uta.edu.ec)  
+
+---
 
 ⭐ *Gracias por visitar mi perfil. ¡Explora mis repositorios para ver mis proyectos!*  
+
 

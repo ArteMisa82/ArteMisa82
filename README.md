@@ -21,10 +21,6 @@
 
 ---
 
-### 📫 Conecta conmigo  
-- 💌 **Correo institucional:** [vjaque5367@uta.edu.ec](mailto:vjaque5367@uta.edu.ec)  
-
----
 
 ⭐ *Gracias por visitar mi perfil. ¡Explora mis repositorios para ver mis proyectos!*  
 
